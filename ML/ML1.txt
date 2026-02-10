@@ -1,0 +1,12 @@
+python -m pip install --upgrade pip --user
+
+Python: 3.12.4
+NumPy: 1.26.4
+Pandas: 2.2.2
+Scikit-learn: 1.5.2
+OpenCV: 4.10.0.84
+
+
+anaconda 3 prompt open run as administrator
+pip install --user "numpy<2.0" pandas==2.2.2 scikit-learn==1.5.2 opencv-python==4.10.0.84
+

@@ -1,0 +1,7 @@
+conda create -n py312_ml python=3.12 numpy=1.26.4 pandas=2.2.2 matplotlib=3.9.2 seaborn=0.13.2 scikit-learn=1.5.1 scipy=1.14.1 opencv=4.10.0 -c conda-forge -y
+
+
+conda install -n py312_ml jupyter notebook ipykernel -c conda-forge -y
+
+
+python -m ipykernel install --user --name py312_ml --display-name "Python (py312_ml)"

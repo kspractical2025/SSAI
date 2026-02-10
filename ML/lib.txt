@@ -1,0 +1,7 @@
+import cv2
+from sklearn.datasets import load_iris
+import numpy as np
+import seaborn as sns
+import pandas as pd
+df = sns.load_dataset("iris")
+df.head()

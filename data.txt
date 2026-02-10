@@ -1,0 +1,8 @@
+data = {
+    'Student_ID': ['S001','S002','S003','S004','S005','S006','S006'],
+    'Gender': ['Male','Female','Male','Female','Male','Female','Female'],
+    'Age': [20,21,20,22,21,23,23],
+    'Marks': [85,90,np.nan,75,85,88,88],
+    'Attendance': [90,95,85,80,90,92,92],
+    'Subject': ['Math','Science','Math','English','Science','Math','Math']
+}

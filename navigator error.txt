@@ -1,0 +1,4 @@
+anaconda-navigator --reset
+anaconda-navigator
+
+c:\programData\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)\Anaconda Navigator (Anaconda3).lnk

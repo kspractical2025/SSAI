@@ -1,0 +1,2 @@
+python -m pip install --user --force-reinstall "numpy<2"
+python -m pip install --user --force-reinstall matplotlib seaborn pandas scipy opencv-python

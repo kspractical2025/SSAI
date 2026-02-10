@@ -1,0 +1,2 @@
+anaconda-navigator --reset
+anaconda-navigator
