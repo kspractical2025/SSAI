@@ -1,0 +1,13 @@
+
+
+Anaconda Prompt ->  Right-click ? Run as Administrator
+
+conda create -n four python=3.10
+
+conda activate four
+
+conda install numpy pandas matplotlib scikit-learn certifi jupyter ipykernel -y
+
+pip install flask seaborn tensorflow keras xgboost lightgbm plotly nltk spacy statsmodels beautifulsoup4 lxml openpyxl xlrd joblib streamlit mlxtend squarify opencv-python fastapi gunicorn pytz requests
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
